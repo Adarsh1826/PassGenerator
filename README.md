@@ -19,3 +19,5 @@ A React-based password generator application that allows users to generate a sec
 1. Clone this repository:
    ```bash
    git clone https://github.com/Adarsh1826/PassGenerator.git
+
+## Live project link :- https://passwordgenzz.netlify.app
